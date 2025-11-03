@@ -24,7 +24,7 @@
 
 ## 스크린샷
 
-![UI 스크린샷](./screenshots/ui_preview.png)
+![UI 스크린샷](./PracticeDoosan/스크린샷%202025-11-03%20110414.png)
 
 ## 설치
 
